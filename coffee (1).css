@@ -1,0 +1,17 @@
+
+
+body {
+	text-align: center;
+	
+	background-color: #4CAF50;
+   
+   font-family: 'Vollkorn', serif;
+   font-size: 30px;
+   
+
+}
+@media only screen and (max-width: 500px) {
+    body {
+        background-color: #1BBC9B;
+    }
+
